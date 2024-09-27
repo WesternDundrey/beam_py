@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: beam-py
+Version: 0.1.0
+Summary: A simple beam stress visualization library for young learners
+Home-page: https://github.com/WesternDundrey/beam_py
+Author: Your Name
+Author-email: your.email@example.com
+License: MIT
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: plotly
+Requires-Dist: dash
+Requires-Dist: dash-bootstrap-components
+
+# beam-py
+
+A simple beam stress visualization library for young learners.
+
+## Features
+
+- Visualize beam structures in 2D
+- Interactive input for beam parameters
+- Shear force, bending moment, and deflection diagrams
+- Designed for educational purposes
+
+## Installation
+
+```bash
+pip install beam-py # in terminal

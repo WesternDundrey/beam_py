@@ -1,0 +1,2 @@
+[console_scripts]
+beam-py-app = beam_py.app:main

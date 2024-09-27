@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+assets/__init__.py
+beam_py.egg-info/PKG-INFO
+beam_py.egg-info/SOURCES.txt
+beam_py.egg-info/dependency_links.txt
+beam_py.egg-info/entry_points.txt
+beam_py.egg-info/requires.txt
+beam_py.egg-info/top_level.txt
