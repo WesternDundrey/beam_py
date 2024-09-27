@@ -1,4 +1,4 @@
-# beam-py
+# beam_py
 
 A simple beam stress visualization library for young learners.
 
@@ -12,4 +12,4 @@ A simple beam stress visualization library for young learners.
 ## Installation
 
 ```bash
-pip install beam-py # in terminal
+pip install beam_py # in terminal
